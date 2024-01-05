@@ -1,7 +1,8 @@
 repo_name: sachajw/BeRoot
 report_id: 47c305864e636bf310316466705694ff
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-16T10:44:10+00:00'
+timestamp: '2024-01-05T08:39:07+00:00'
 requested_by: AlessandroZ
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/sachajw/BeRoot
   detection_source: Repo Metadata
 - name: C++
   description: Has imperative, object-oriented and generic programming features, while
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/sachajw/BeRoot
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -35,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/sachajw/BeRoot
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -44,6 +48,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/sachajw/BeRoot
   detection_source: Repo Metadata
 - name: Visual Studio
   description: State-of-the-art tools and services that you can use to create great
@@ -54,6 +59,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/sachajw/BeRoot/blob/master/Windows/templates/DLL_Hijacking/DLL_Hijacking.sln
   detection_source: Windows/templates/DLL_Hijacking/DLL_Hijacking.sln
   last_updated_by: AlessandroZ
   last_updated_on: 2017-04-14 13:44:20.000000000 Z
@@ -66,4 +72,5 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/sachajw/BeRoot
   detection_source: Repo Metadata
